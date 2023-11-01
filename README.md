@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmirkk0
-- :man_beard: I’m a Linux user and I just tell my experience by giving some advice
-- 🌱 I’m currently prepare VCP-DCV (VWMWARE) VMCE(VEEAM) and LPIC-1 (LPI)
+- :man_beard: I’m a HPC engineer and Linux user. I just tell my experience and give you little advice
 - :eyes:I'm always ready to collaborate
 
 <!---
