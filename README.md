@@ -1,11 +1,7 @@
-![Software Engineers](https://github.com/mmirkk0/mmirkk0/assets/119588415/310b9973-637f-4cf4-a608-e6089e00343a)  
-
-- :man_beard: I’m a HPC engineer and Linux user. I just tell my experience and give you little advice
-- :eyes:I'm always ready to collaborate
-
 # Hi there! 👋
+  I'm @mmirkk0
 
-I'm @mmirkk0, an HPC  engineer with a passion for Linux and open-source technologies. When I'm not working, I enjoy delving into programming as a hobby.
+- :man_beard: I’m a HPC engineer and Linux user with a passion for Linux and open-source technologies. When I'm not working, I enjoy developing pet project as a hobby.
 
 ## 🔧 Coding Skills
 
@@ -13,18 +9,17 @@ I'm @mmirkk0, an HPC  engineer with a passion for Linux and open-source technolo
 - **Go:**     ⭐⭐ (2/5)
 - **Python:** ⭐⭐ (2/5)
 
-## 🚀 Open Source Contributions
-
-- [List any notable open source projects you've contributed to]
-
 ## 📚 Latest interesting books
 
-
+-  Designing Data-Intensive Applications --Martin Kleppmann
+-  Clean Architecture --Robert Cecil Martin
+-  Amministrare GNU/Linux --Simoe Piccardi
+-  Automate the boring stuff with python --Al Sweigart
+-  Hands-On Go Programming --Sachchidanand Singh, Prithvipal Singh
+-  Bash Idioms --J-P. Vossen, Carl Albing
 
 ## 📚 More About Me
 
-I'm passionate about exploring the intersection of high-performance computing, Linux systems, and open source. In my free time, you'll find me experimenting with various programming languages, particularly Bash scripting. While I have a strong foundation in Bash, I'm also exploring Go and Python to broaden my skill set.
-
-Feel free to reach out if you're interested in collaborating on projects or just want to chat about tech and programming!
+I'm passionate about exploring Linux systems and open source. In my free time, you'll find me experimenting with various programming languages. While I have a strong foundation in Bash, I'm also exploring Go and Python to broaden my skill set.
 
 Happy coding! 🚀
